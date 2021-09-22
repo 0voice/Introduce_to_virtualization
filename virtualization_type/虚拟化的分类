@@ -1,0 +1,21 @@
+# 虚拟化的分类
+
+## 1. 按应用分类
+A. 操作系统虚拟化——Vmware的vSphere、workstation；微软的Windows Server with Hyper-v、Virtual PC；IBM的Power VM、zVM；Citrix的Xen
+B. 应用程序虚拟化——微软的APP-V；Citrix的Xen APP等
+C. 桌面虚拟化——微软的MED-V、VDI；Citrix的Xen Desktop；Vmware的 Vmware view；IBM的Virtual Infrastructure Access等
+D. 存储虚拟化、网络虚拟化等
+
+## 2. 按照应用模式分类
+A. 一对多：其中将一个物理服务器划分为多个虚拟服务器。这是典型的服务器整合模式。
+B. 多对一：其中整合了多个虚拟服务器，并将它们作为一个资源池。这是典型的网格计算模式。
+C. 多对多：将前两种模式结合在一起。
+
+## 3. 按硬件资源调用模式分类
+A. 全虚拟化——虚拟操作系统与底层硬件完全隔离，由中间的Hypervisor层转化虚拟客户操作系统对底层硬件的调用代码，全虚拟化无需更改客户端操作系统，兼容性好。典型代表是VMare WorkStation、ESX Server早期版本、Microsoft Vitrual Server
+B. 半虚拟化——在虚拟客户操作系统中加入特定的虚拟化指令，通过这些指令可以直接通过Hypervisor层调用硬件资源，免除有hypervisor层转换指令的性能开销。半虚拟化的典型代表Microsoft Hyper-V；Vmware的vSphere
+C. 硬件辅助虚拟化——在CPU中加入了新的指令集和处理器运行模式，完成虚拟操作系统对硬件资源的直接调用。典型技术是Intel VT、AMD-V
+
+## 4. 按运行平台分类
+A. X86平台——由于X86体系结构服务器的蓬勃发展，基于X86体系的虚拟化技术也有了很大的进步，目前比较流行的基于X86体系的虚拟厂商有VMware Microsoft、Citrix、IBM System x系列服务器
+B. 非X86平台——非X86平台的虚拟化鼻祖是IBM公司，早在20世纪60年代，IBM就在大型机上实现了虚拟化的商用，目前IBM的虚拟化技术包括大型机的System z系列服务器，中小企业应用的System p系列服务器；HP 的虚拟服务器环境（virtual Server Environment，VSE）以及虚拟 vPar、nPartition 和 Integrity 虚拟机（IVM）；Sun的SPARC平台的xVM等，这些都是非X86平台虚拟化的重要力量。
