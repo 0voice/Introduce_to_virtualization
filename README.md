@@ -49,11 +49,10 @@
 
 ## <h2 id="nav_vt2">🦖 内存虚拟化 </h2>
 
-* 影子页表技术 <br/>
-![image](https://user-images.githubusercontent.com/87458342/134471843-a6da95ac-856b-4307-bdf8-abe403fae6ed.png)
+![image](https://user-images.githubusercontent.com/87458342/134475311-55c71ba8-8938-453a-87df-81f2b50a3183.png)
 
-* EPT 技术 <br/>
-![image](https://user-images.githubusercontent.com/87458342/134471974-c812fc95-74eb-498c-b8c0-ea8c01245159.png)
+* [影子页表技术]()
+* [EPT技术]()
 
 
 ## <h2 id="nav_vt3">🐊 IO虚拟化 </h2>
