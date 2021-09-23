@@ -79,6 +79,9 @@
 * IO透传：直接把物理设备分配给虚拟机使用，这种方式需要硬件平台具备I/O透传技术，例如Intel VT-d技术。它能获得近乎本地的性能，并且CPU开销不高。
 
 ### 1. [I/O虚拟化](https://github.com/0voice/Introduce_to_virtualization/blob/main/virtualization_type/io_virtualization/IO虚拟化.md)
+### 2. [I/O虚拟化三种形式](https://github.com/0voice/Introduce_to_virtualization/blob/main/virtualization_type/io_virtualization/IO虚拟化三种形式.md)
+
+
 
 ## <h2 id="nav_vt4">🦎 磁盘虚拟化 </h2>
 <br/>
