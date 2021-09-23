@@ -37,7 +37,7 @@
 
 ## <h2 id="nav_vt1">🦕 CPU虚拟化 </h2>
 
-![image](https://user-images.githubusercontent.com/87458342/134472794-4252dec3-36d3-46c0-bc11-03dea5074822.png)
+![image](https://user-images.githubusercontent.com/87458342/134473080-425de1c8-66c6-44cd-b615-f66fcea2f123.png)
 
 ### 1. [基于二进制翻译的全虚拟化（Full Virtualization with Binary Translation）](https://github.com/0voice/Introduce_to_virtualization/blob/main/virtualization_type/cpu_virtualization/CPU虚拟化.md#cpu_virtualization_mode1)
 
@@ -49,10 +49,10 @@
 
 ## <h2 id="nav_vt2">🦖 内存虚拟化 </h2>
 
-影子页表技术
+* 影子页表技术 <br/>
 ![image](https://user-images.githubusercontent.com/87458342/134471843-a6da95ac-856b-4307-bdf8-abe403fae6ed.png)
 
-EPT 技术
+* EPT 技术 <br/>
 ![image](https://user-images.githubusercontent.com/87458342/134471974-c812fc95-74eb-498c-b8c0-ea8c01245159.png)
 
 
