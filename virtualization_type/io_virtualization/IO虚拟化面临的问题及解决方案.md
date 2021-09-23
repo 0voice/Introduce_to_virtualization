@@ -68,15 +68,15 @@ System MMU的某些优势甚至不需要虚拟化。 由于系统MMU使每个设
 
 有关更多信息，请查看以下资源。
 
-http://xpgc.vicp.net/course/svt/TechDoc/ch12-IOArchitecturesForVirtualization.pdf
-http://nowlab.cse.ohio-state.edu/NOW/dissertations/huang.pdf
-http://www.ibm.com/developerworks/linux/library/l-virtio/
-http://pic.dhe.ibm.com/infocenter/lnxinfo/v3r0m0/topic/liaat/liaatbestpractices_pdf.pdf
-http://www.mulix.org/lectures/xen-iommu/xen-io.pdf
-http://developer.amd.com/wordpress/media/2012/10/IOMMU-ben-yehuda.pdf
-http://www.arm.com/files/pdf/System-MMU-Whitepaper-v8.0.pdf
-http://software.intel.com/zh-CN/articles/intel-virtualization-technology-for-directed-io-vt-d-enhancing-intel-platforms-for-efficiency-virtualization-of-io-devices
-http://support.amd.com/us/Processor_TechDocs/48882.pdf
+* http://xpgc.vicp.net/course/svt/TechDoc/ch12-IOArchitecturesForVirtualization.pdf
+* http://nowlab.cse.ohio-state.edu/NOW/dissertations/huang.pdf
+* http://www.ibm.com/developerworks/linux/library/l-virtio/
+* http://pic.dhe.ibm.com/infocenter/lnxinfo/v3r0m0/topic/liaat/liaatbestpractices_pdf.pdf
+* http://www.mulix.org/lectures/xen-iommu/xen-io.pdf
+* http://developer.amd.com/wordpress/media/2012/10/IOMMU-ben-yehuda.pdf
+* http://www.arm.com/files/pdf/System-MMU-Whitepaper-v8.0.pdf
+* http://software.intel.com/zh-CN/articles/intel-virtualization-technology-for-directed-io-vt-d-enhancing-intel-platforms-for-efficiency-virtualization-of-io-devices
+* http://support.amd.com/us/Processor_TechDocs/48882.pdf
 
 
 原文作者： 程序员大本营
