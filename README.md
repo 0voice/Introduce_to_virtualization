@@ -33,10 +33,10 @@
 * [全虚拟化和半虚拟化](https://github.com/0voice/Introduce_to_virtualization/blob/main/virtualization_type/全虚拟化和半虚拟化.md)
 * [虚拟化五种类型](https://github.com/0voice/Introduce_to_virtualization/blob/main/virtualization_type/虚拟化五种类型.md)
 
-## <h1 id="nav_vt1">🦕 CPU虚拟化 </h1>
-## <h1 id="nav_vt2">🦖 内存虚拟化 </h1>
-## <h1 id="nav_vt3">🐊 IO虚拟化 </h1>
-## <h1 id="nav_vt4">🦎 磁盘虚拟化 </h1>
+## <h2 id="nav_vt1">🦕 CPU虚拟化 </h2>
+## <h2 id="nav_vt2">🦖 内存虚拟化 </h2>
+## <h2 id="nav_vt3">🐊 IO虚拟化 </h2>
+## <h2 id="nav_vt4">🦎 磁盘虚拟化 </h2>
 <br/>
 <br/>
  
