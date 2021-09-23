@@ -1,6 +1,6 @@
 # <h1> CPU虚拟化 </h1>
 
-## <h2> 基于二进制翻译的全虚拟化（Full Virtualization with Binary Translation） </h2>
+## <h2 id="cpu_virtualization_mode1">1. 基于二进制翻译的全虚拟化（Full Virtualization with Binary Translation） </h2>
 
 ![image](https://user-images.githubusercontent.com/87458342/134466367-8c6ec4cf-cb71-4c9d-95f2-a0f177eef1e4.png)
 
@@ -10,7 +10,7 @@
 
 ![image](https://user-images.githubusercontent.com/87458342/134466413-87122124-2cc4-4195-80e0-05316d8494ea.png)
 
-### <h2> 超虚拟化（或者半虚拟化/操作系统辅助虚拟化 Paravirtualization）  </h2> 
+### <h2 id="cpu_virtualization_mode2">2. 超虚拟化（或者半虚拟化/操作系统辅助虚拟化 Paravirtualization）  </h2> 
 
 半虚拟化的思想就是， 修改操作系统内核，替换掉不能虚拟化的指令， 通过超级调用（hypercall ）直接和底层的虚拟化层hypervisor 来通讯 ，hypervisor  同时也提供了超级调用接口来满足其他关键内核操作，比如内存管理、中断和时间保持。
 
@@ -18,7 +18,7 @@
 
 ![image](https://user-images.githubusercontent.com/87458342/134466479-8f7b5aa3-6a36-42fa-b1d2-7ec66ca1f756.png)
 
-### <h2> 硬件辅助的虚拟化  </h2> 
+### <h2 id="cpu_virtualization_mode3">3. 硬件辅助的虚拟化  </h2> 
 
 2005年后，CPU厂商Intel 和 AMD 开始支持虚拟化了。 Intel 引入了 Intel-VT （Virtualization Technology）技术。 这种 CPU，有 VMX root operation 和 VMX non-root operation两种模式，两种模式都支持Ring 0 ~ Ring 3 共 4 个运行级别。这样，VMM 可以运行在 VMX root operation模式下，客户OS运行在VMX non-root operation模式下。
 
