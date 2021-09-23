@@ -81,6 +81,7 @@
 ### 1. [I/O虚拟化](https://github.com/0voice/Introduce_to_virtualization/blob/main/virtualization_type/io_virtualization/IO虚拟化.md)
 ### 2. [I/O虚拟化三种形式](https://github.com/0voice/Introduce_to_virtualization/blob/main/virtualization_type/io_virtualization/IO虚拟化三种形式.md)
 ### 3. [I/O虚拟化基本原理](https://github.com/0voice/Introduce_to_virtualization/blob/main/virtualization_type/io_virtualization/IO虚拟化基本原理.md)
+### 4. [I/O虚拟化面临的问题及解决方案](https://github.com/0voice/Introduce_to_virtualization/blob/main/virtualization_type/io_virtualization/IO虚拟化面临的问题及解决方案.md)
 
 
 
