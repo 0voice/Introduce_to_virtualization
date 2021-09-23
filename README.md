@@ -43,6 +43,7 @@
 
 ### 3. [硬件辅助的虚拟化](https://github.com/0voice/Introduce_to_virtualization/blob/main/virtualization_type/cpu_virtualization/CPU虚拟化.md#cpu_virtualization_mode3)
 
+### 4. [CPU的三种虚拟化机制](https://github.com/0voice/Introduce_to_virtualization/blob/main/virtualization_type/cpu_virtualization/CPU的三种虚拟化机制.md)
 
 ## <h2 id="nav_vt2">🦖 内存虚拟化 </h2>
 ## <h2 id="nav_vt3">🐊 IO虚拟化 </h2>
