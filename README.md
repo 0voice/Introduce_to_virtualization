@@ -27,6 +27,9 @@
 
 # <h1 id="nav_vt0">🪐 虚拟化基础</h1>
 
+## 虚拟化思维导图
+![image](https://user-images.githubusercontent.com/87458342/134476897-59097b19-9726-465c-a293-5781325b9f56.png)
+
 ## <h2 id="nav_vt0_chapter1">🍃 虚拟化分类</h2>
 
 * [虚拟化技术分类](https://github.com/0voice/Introduce_to_virtualization/blob/main/virtualization_type/虚拟化技术分类.md)
@@ -48,6 +51,10 @@
 ### 4. [CPU的三种虚拟化机制](https://github.com/0voice/Introduce_to_virtualization/blob/main/virtualization_type/cpu_virtualization/CPU的三种虚拟化机制.md)
 
 ## <h2 id="nav_vt2">🦖 内存虚拟化 </h2>
+
+### 内存虚拟化思维导图
+![image](https://user-images.githubusercontent.com/87458342/134476741-9fccad84-c7ec-4579-950a-d5922bfd650e.png)
+
 
 ![image](https://user-images.githubusercontent.com/87458342/134475311-55c71ba8-8938-453a-87df-81f2b50a3183.png)
 
