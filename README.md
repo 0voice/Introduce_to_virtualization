@@ -97,8 +97,8 @@
 ### 6. [基于主机的虚拟化]
 ### 7. [基于网络的虚拟化]
 ### 8. [基于存储设备、存储子系统的虚拟化]
-### 9. [带内虚拟化]
-### 10. [带外虚拟化]
+### 9. [带内虚拟化](https://github.com/0voice/Introduce_to_virtualization/blob/main/virtualization_type/storage_virtualization/带内虚拟化和带外虚拟化.md)
+### 10. [带外虚拟化](https://github.com/0voice/Introduce_to_virtualization/blob/main/virtualization_type/storage_virtualization/带内虚拟化和带外虚拟化.md)
 
 <br/>
 <br/>
