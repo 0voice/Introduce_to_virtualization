@@ -17,6 +17,7 @@
 ### 3.1 影子页表(Shadow Page Table)
 虚机维护的虚拟内页表完成了GVA->GPA的映射，如果将该页表的基地址装入CR3中，必然会出现问题。影子页表的解决方法是由VMM维护的影子页表实现GVA->HPA的地址映射。如下图：
 
+![image](https://user-images.githubusercontent.com/87458342/134488906-d181294e-cf4d-47c1-8603-3e78365159eb.png)
 
 虚实物理地址翻译表又由VMM维护，通过这些转换关系，最终提现在影子页表中，并将影子页表装载在CR3中。
 
