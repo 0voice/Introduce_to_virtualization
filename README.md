@@ -55,8 +55,10 @@
 ### 内存虚拟化思维导图
 ![image](https://user-images.githubusercontent.com/87458342/134476741-9fccad84-c7ec-4579-950a-d5922bfd650e.png)
 
-
-![image](https://user-images.githubusercontent.com/87458342/134475311-55c71ba8-8938-453a-87df-81f2b50a3183.png)
+VMM 内存虚拟化的实现方式：
+* 软件方式：通过软件实现内存地址的翻译，比如 Shadow page table （影子页表）技术
+* 硬件实现：基于 CPU 的辅助虚拟化功能，比如 AMD 的 NPT 和 Intel 的 EPT 技术 
+![image](https://user-images.githubusercontent.com/87458342/134478479-4b09e660-bfce-4920-b954-15f3c817e710.png)
 
 * [影子页表技术]()
 * [EPT技术]()
