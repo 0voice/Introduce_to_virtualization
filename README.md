@@ -37,6 +37,8 @@
 
 ## <h2 id="nav_vt1">🦕 CPU虚拟化 </h2>
 
+![image](https://user-images.githubusercontent.com/87458342/134472794-4252dec3-36d3-46c0-bc11-03dea5074822.png)
+
 ### 1. [基于二进制翻译的全虚拟化（Full Virtualization with Binary Translation）](https://github.com/0voice/Introduce_to_virtualization/blob/main/virtualization_type/cpu_virtualization/CPU虚拟化.md#cpu_virtualization_mode1)
 
 ### 2. [超虚拟化（或者半虚拟化/操作系统辅助虚拟化 Paravirtualization）](https://github.com/0voice/Introduce_to_virtualization/blob/main/virtualization_type/cpu_virtualization/CPU虚拟化.md#cpu_virtualization_mode2)
@@ -46,6 +48,14 @@
 ### 4. [CPU的三种虚拟化机制](https://github.com/0voice/Introduce_to_virtualization/blob/main/virtualization_type/cpu_virtualization/CPU的三种虚拟化机制.md)
 
 ## <h2 id="nav_vt2">🦖 内存虚拟化 </h2>
+
+影子页表技术
+![image](https://user-images.githubusercontent.com/87458342/134471843-a6da95ac-856b-4307-bdf8-abe403fae6ed.png)
+
+EPT 技术
+![image](https://user-images.githubusercontent.com/87458342/134471974-c812fc95-74eb-498c-b8c0-ea8c01245159.png)
+
+
 ## <h2 id="nav_vt3">🐊 IO虚拟化 </h2>
 ## <h2 id="nav_vt4">🦎 磁盘虚拟化 </h2>
 <br/>
