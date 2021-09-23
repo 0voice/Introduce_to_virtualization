@@ -91,7 +91,7 @@
 
 ### 1. [块虚拟化](https://github.com/0voice/Introduce_to_virtualization/blob/main/virtualization_type/storage_virtualization/块虚拟化.md)
 ### 2. [磁盘虚拟化](https://github.com/0voice/Introduce_to_virtualization/blob/main/virtualization_type/storage_virtualization/磁盘虚拟化.md)
-### 3. [磁带、磁带驱动器、磁带库虚拟化]
+### 3. [磁带、磁带驱动器、磁带库虚拟化](https://github.com/0voice/Introduce_to_virtualization/blob/main/virtualization_type/storage_virtualization/在Linux平台使用mhVTL虚拟化磁带库.md)
 ### 4. [文件系统虚拟化]
 ### 5. [文件/记录虚拟化]
 ### 6. [基于主机的虚拟化]
