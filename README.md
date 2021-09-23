@@ -90,7 +90,7 @@
 ![image](https://user-images.githubusercontent.com/87458342/134514544-c51a7bf1-24cd-45a1-b98a-aff06b47204a.png)
 
 ### 1. [块虚拟化]
-### 2. [磁盘虚拟化]
+### 2. [磁盘虚拟化](https://github.com/0voice/Introduce_to_virtualization/blob/main/virtualization_type/storage_virtualization/磁盘虚拟化.md)
 ### 3. [磁带、磁带驱动器、磁带库虚拟化]
 ### 4. [文件系统虚拟化]
 ### 5. [文件/记录虚拟化]
