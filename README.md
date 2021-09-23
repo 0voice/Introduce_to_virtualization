@@ -7,11 +7,11 @@
 <br/>
 
 * [<h1> 🪐 虚拟化基础 </h1>](#nav_vt0) 
-  * [🍃 虚拟化分类](#nav_vt0_chapter1)
-  * [<h1> 🦕 CPU虚拟化 </h1>](#nav_vt1) 
-  * [<h1> 🦖 内存虚拟化 </h1>](#nav_vt2)
-  * [<h1> 🐊 IO虚拟化 </h1>](#nav_vt3)
-  * [<h1> 🦎 磁盘虚拟化 </h1>](#nav_vt4)
+  * [<h2> 🍃 虚拟化分类 <h2>](#nav_vt0_chapter1)
+  * [<h2> 🦕 CPU虚拟化 </h2>](#nav_vt1) 
+  * [<h2> 🦖 内存虚拟化 </h2>](#nav_vt2)
+  * [<h2> 🐊 IO虚拟化 </h2>](#nav_vt3)
+  * [<h2> 🦎 磁盘虚拟化 </h2>](#nav_vt4)
 * [🌴 知识体系](#nav_vt1_chapter1)
 * [🌱 宣讲&PPT](#nav_vt1_chapter2)
 * [🧿 视频](#nav_vt1_chapter3)
@@ -33,10 +33,10 @@
 * [全虚拟化和半虚拟化](https://github.com/0voice/Introduce_to_virtualization/blob/main/virtualization_type/全虚拟化和半虚拟化.md)
 * [虚拟化五种类型](https://github.com/0voice/Introduce_to_virtualization/blob/main/virtualization_type/虚拟化五种类型.md)
 
-# <h1 id="nav_vt1">🦕 CPU虚拟化 </h1>
-# <h1 id="nav_vt2">🦖 内存虚拟化 </h1>
-# <h1 id="nav_vt3">🐊 IO虚拟化 </h1>
-# <h1 id="nav_vt4">🦎 磁盘虚拟化 </h1>
+## <h1 id="nav_vt1">🦕 CPU虚拟化 </h1>
+## <h1 id="nav_vt2">🦖 内存虚拟化 </h1>
+## <h1 id="nav_vt3">🐊 IO虚拟化 </h1>
+## <h1 id="nav_vt4">🦎 磁盘虚拟化 </h1>
 <br/>
 <br/>
  
