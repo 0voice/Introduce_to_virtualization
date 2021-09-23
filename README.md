@@ -37,7 +37,7 @@
 
 ## <h2 id="nav_vt1">🦕 CPU虚拟化 </h2>
 
-![image](https://user-images.githubusercontent.com/87458342/134473080-425de1c8-66c6-44cd-b615-f66fcea2f123.png)
+![image](https://user-images.githubusercontent.com/87458342/134474242-094cd645-d33b-4566-9692-9a64782f674f.png)
 
 ### 1. [基于二进制翻译的全虚拟化（Full Virtualization with Binary Translation）](https://github.com/0voice/Introduce_to_virtualization/blob/main/virtualization_type/cpu_virtualization/CPU虚拟化.md#cpu_virtualization_mode1)
 
