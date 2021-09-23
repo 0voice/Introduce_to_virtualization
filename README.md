@@ -61,8 +61,8 @@ VMM 内存虚拟化的实现方式：
 ![image](https://user-images.githubusercontent.com/87458342/134478479-4b09e660-bfce-4920-b954-15f3c817e710.png)
 
 * [内存虚拟化](https://github.com/0voice/Introduce_to_virtualization/blob/main/virtualization_type/memory_virtualization/内存虚拟化.md)
-* [影子页表技术](https://github.com/0voice/Introduce_to_virtualization/blob/main/virtualization_type/memory_virtualization/内存虚拟化.md#memory_t1)
-* [EPT技术](https://github.com/0voice/Introduce_to_virtualization/blob/main/virtualization_type/memory_virtualization/内存虚拟化.md#memory_t2)
+* [影子页表技术](https://github.com/0voice/Introduce_to_virtualization/blob/main/virtualization_type/memory_virtualization/内存虚拟化影子页表技术和EPT技术.md#memory_t1)
+* [EPT技术](https://github.com/0voice/Introduce_to_virtualization/blob/main/virtualization_type/memory_virtualization/内存虚拟化影子页表技术和EPT技术.md#memory_t2)
 
 
 ## <h2 id="nav_vt3">🐊 IO虚拟化 </h2>
