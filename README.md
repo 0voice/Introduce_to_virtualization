@@ -36,7 +36,7 @@
 
 ## <h2 id="nav_vt1">🦕 CPU虚拟化 </h2>
 
-### 1. 基于二进制翻译的全虚拟化（Full Virtualization with Binary Translation）
+### 1. [基于二进制翻译的全虚拟化（Full Virtualization with Binary Translation）](https://github.com/0voice/Introduce_to_virtualization/blob/main/virtualization_type/cpu_virtualization/CPU虚拟化.md#)
 
 ![image](https://user-images.githubusercontent.com/87458342/134466367-8c6ec4cf-cb71-4c9d-95f2-a0f177eef1e4.png)
 
