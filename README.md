@@ -86,8 +86,8 @@
 
 ## <h2 id="nav_vt4">🦎 存储虚拟化 </h2>
 
-### 存储虚拟化实现
-![image](https://user-images.githubusercontent.com/87458342/134513130-cf152f3c-9a0a-475f-8ded-21bd28956240.png)
+### 存储虚拟化结构
+![image](https://user-images.githubusercontent.com/87458342/134513907-afafb57a-a6c7-418f-a82b-d3548ec159ae.png)
 
 <br/>
 <br/>
