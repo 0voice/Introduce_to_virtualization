@@ -2,7 +2,9 @@
 
 <br/>
 
+<!--
 ![image](https://user-images.githubusercontent.com/87458342/134299929-8f7e5675-600e-4af3-b5b9-57b0bcf3f0af.png)
+-->
 
 <br/>
 
@@ -12,13 +14,13 @@
   * [<h2> 🦖 内存虚拟化 </h2>](#nav_vt2)
   * [<h2> 🐊 IO虚拟化 </h2>](#nav_vt3)
   * [<h2> 🦎 磁盘虚拟化 </h2>](#nav_vt4)
-* [🌴 知识体系](#nav_vt1_chapter1)
-* [🌱 宣讲&PPT](#nav_vt1_chapter2)
-* [🧿 视频](#nav_vt1_chapter3)
-* [🍀 论文](#nav_vt1_chapter4)
-* [🌰 开源项目](#nav_vt1_chapter5)
-* [📄 文章](#nav_vt1_chapter6)
-* [📙 电子书籍](#nav_vt1_chapter7)
+* [<h1> 🌴 知识体系 </h1>](#nav_vt1_chapter1)
+* [<h1> 🌱 宣讲&PPT </h1>](#nav_vt1_chapter2)
+* [<h1> 🧿 视频 </h1>](#nav_vt1_chapter3)
+* [<h1> 🍀 论文 </h1>](#nav_vt1_chapter4)
+* [<h1> 🌰 开源项目 </h1>](#nav_vt1_chapter5)
+* [<h1> 📄 文章 </h1>](#nav_vt1_chapter6)
+* [<h1> 📙 电子书籍 </h1>](#nav_vt1_chapter7)
 
 <br/>
 <br/>
@@ -40,13 +42,13 @@
 <br/>
 <br/>
  
-# <h2 id="nav_vt1_chapter1">🌴 知识体系</h2>
+# <h1 id="nav_vt1_chapter1">🌴 知识体系</h1>
 
-# <h2 id="nav_vt1_chapter2">🌱 宣讲&PPT</h2>
+# <h1 id="nav_vt1_chapter2">🌱 宣讲&PPT</h1>
 
-# <h2 id="nav_vt1_chapter3">🧿 视频</h2>
+# <h1 id="nav_vt1_chapter3">🧿 视频</h1>
 
-# <h2 id="nav_vt1_chapter4">🍀 论文</h2>
+# <h1 id="nav_vt1_chapter4">🍀 论文</h1>
 
 No.|Title|Translate|Company
 :-------: | :--------------- | :------------|:---------------
@@ -112,7 +114,7 @@ No.|Title|Translate|Company
 60|[《The IBM Advantage for Implementing the Virtualization Reference Architecture》](https://github.com/0voice/Introduce_to_virtualization/blob/main/papers/60_The_IBM_Advantage_for_Implementing_the_Virtualization_Reference_Architecture.pdf) |《IBM实施虚拟化参考体系结构的优势》|
 
 
-# <h2 id="nav_vt1_chapter5">🌰 开源项目</h2>
+# <h1 id="nav_vt1_chapter5">🌰 开源项目</h1>
 
 ## <h3 id="nav_vt1_chapter5_01">[KVM](http://www.linux-kvm.org)</h3>
 
@@ -154,7 +156,7 @@ Lguest 是由IBM工程师Rusty Russell（澳大利亚开发者)发起的虚拟�
 
 </div>
 
-# <h2 id="nav_vt1_chapter7">📙 电子书籍</h2>
+# <h1 id="nav_vt1_chapter7">📙 电子书籍</h1>
 
 * 《VMware vSphere4 云操作系统搭建配置入门与实战》.pdf
 * 《VMwareCertifiedProfessionalTest Prep》.pdf
