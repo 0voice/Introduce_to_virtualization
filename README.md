@@ -54,7 +54,7 @@
 ## <h2 id="nav_vt2">🦖 内存虚拟化 </h2>
 
 ### 内存虚拟化思维导图
-![image](https://user-images.githubusercontent.com/87458342/134476741-9fccad84-c7ec-4579-950a-d5922bfd650e.png)
+![image](https://user-images.githubusercontent.com/87458342/134679600-2bec9438-fa5f-49b0-b79c-7f8a2c9198d6.png)
 
 ### VMM内存虚拟化实现方式
 * 软件方式：通过软件实现内存地址的翻译，比如 Shadow page table （影子页表）技术
