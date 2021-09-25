@@ -123,6 +123,7 @@
 ### VMM
 
 * [虚拟化技术概要之VMM结构](https://github.com/0voice/Introduce_to_virtualization/blob/main/product/虚拟化技术概要之VMM结构.md)
+* [vmm执行基本流程](https://github.com/0voice/Introduce_to_virtualization/blob/main/product/vmm执行基本流程.md)
 
 ### OpenStack
 
