@@ -16,7 +16,7 @@
   * [🦖 内存虚拟化](#nav_vt2)
   * [🐊 IO虚拟化](#nav_vt3)
   * [🦎 存储虚拟化](#nav_vt4)
-* [🌱 宣讲&PPT](#nav_vt1_chapter2)
+* [🌱 架构](#nav_vt1_chapter2)
 * [🧿 视频](#nav_vt1_chapter3)
 * [🍀 论文](#nav_vt1_chapter4)
 * [🌰 开源项目](#nav_vt1_chapter5)
@@ -37,7 +37,6 @@
 * [虚拟化的分类](https://github.com/0voice/Introduce_to_virtualization/blob/main/virtualization_type/虚拟化技术分类.md)
 * [全虚拟化和半虚拟化](https://github.com/0voice/Introduce_to_virtualization/blob/main/virtualization_type/全虚拟化和半虚拟化.md)
 * [虚拟化五种类型](https://github.com/0voice/Introduce_to_virtualization/blob/main/virtualization_type/虚拟化五种类型.md)
-* [虚拟化架构图](https://github.com/0voice/Introduce_to_virtualization/blob/main/virtualization_type/虚拟化架构图.md)
 * [CPU的三种虚拟化机制](https://github.com/0voice/Introduce_to_virtualization/blob/main/virtualization_type/CPU的三种虚拟化机制.md)
 
 ## <h2 id="nav_vt1">🦕 CPU虚拟化 </h2>
@@ -106,7 +105,14 @@
 <br/>
 <br/>
 
-# <h1 id="nav_vt1_chapter2">🌱 宣讲&PPT</h1>
+# <h1 id="nav_vt1_chapter2">🌱 架构</h1>
+
+## 虚拟化架构图
+
+![image](https://user-images.githubusercontent.com/87458342/134765640-f9bb5323-067d-427c-b7b9-ea0e06b5cd1b.png)
+
+* [虚拟化架构图](https://github.com/0voice/Introduce_to_virtualization/blob/main/virtualization_type/虚拟化架构图.md)
+
 
 # <h1 id="nav_vt1_chapter3">🧿 视频</h1>
 
