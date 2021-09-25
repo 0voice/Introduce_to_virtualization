@@ -118,19 +118,18 @@
 
 ### VMware
 
-VMware VMware 提供了很多的虚拟化产品，从服务器到桌面都有很多应用。主要有面向企业级应用的 ESX Server，面向服务端的入门级产品 VMware Server，面向桌面的主打产品 VMware Workstation（这个相信大家经常用），面向苹果系统的桌面产品 VMware Fusion，还有提供整套虚拟应用产品的 VMware vSphere，细分的话还有 VMware vStorage（虚拟存储），VMware vNet（虚拟网络）等。
 
 ### OpenStack
 
 ### Xen
 
-Xen 是一款开源虚拟机软件，Xen 结合了 Hypervisor 模型和宿主模型，属于一种混合的虚拟化模型，基于 Xen 的虚拟化产品也有很多，比如 Ctrix、VirtualIron、RedHat 和 Novell 等都有相应的产品。这个一般是研究机构用得多一些，生产环境中大部分用的是 KVM。
+* [Xen虚拟化详解](https://github.com/0voice/Introduce_to_virtualization/blob/main/product/Xen虚拟化详解.md）
 
 ### vSphere
 
-### KVM
+* [vSphere体系架构](https://github.com/0voice/Introduce_to_virtualization/blob/main/framework/vSphere体系架构.md）
 
-KVM 也是一款开源软件，于 2007 年 2 月被集成到了 Linux 2.6.20 内核中，成为了内核的一部分。KVM 采用的是基于 Intel VT 的硬件辅助虚拟化技术，以及结合 Qemu 来提供设备虚拟化，从实现上看，属于宿主模型。使用 KVM 的厂商很多啊，像我们比较熟悉 VMware Workstation 和 VirtualBox 都在使用，在此就不一一列举了。
+### KVM
 
 # <h1 id="nav_vt1_chapter3">🧿 视频</h1>
 
