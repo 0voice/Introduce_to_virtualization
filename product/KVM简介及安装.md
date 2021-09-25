@@ -3,7 +3,7 @@
 ## 1. KVM 介绍
 
 ### 1.1 虚拟化简史
-
+![image](https://user-images.githubusercontent.com/87458342/134773817-acc4b715-2427-47c4-9862-898ca2ed910c.png)
 
 其中，KVM 全称是 基于内核的虚拟机（Kernel-based Virtual Machine），它是Linux 的一个内核模块，该内核模块使得 Linux 变成了一个 Hypervisor：
 
@@ -20,6 +20,7 @@
 但是，KVM 本身不执行任何硬件模拟，需要用户空间程序通过 /dev/kvm 接口设置一个客户机虚拟服务器的地址空间，向它提供模拟 I/O，并将它的视频显示映射回宿主的显示屏。目前这个应用程序是 QEMU。
 
 Linux 上的用户空间、内核空间和虚机：
+![image](https://user-images.githubusercontent.com/87458342/134773827-1483ef53-592b-4b49-a4cf-73824fad5509.png)
 
 * Guest：客户机系统，包括CPU（vCPU）、内存、驱动（Console、网卡、I/O 设备驱动等），被 KVM 置于一种受限制的 CPU 模式下运行。
 * KVM：运行在内核空间，提供 CPU 和内存的虚级化，以及客户机的 I/O 拦截。Guest 的 I/O 被 KVM 拦截后，交给 QEMU 处理。
@@ -82,9 +83,10 @@ RedHat Linux KVM 有如下两种安装方式：
 ### 4.1 在安装  RedHat Linux 时安装 KVM
 
 选择安装类型为 Virtualizaiton Host ：
-
+![image](https://user-images.githubusercontent.com/87458342/134773830-cf93cc1c-b183-4f0a-b994-6a369d9a9e26.png)
 
 可以选择具体的 KVM 客户端、平台和工具：
+![image](https://user-images.githubusercontent.com/87458342/134773834-b8bcb144-ba01-4ed2-b5d0-f4217dd52796.png)
 
 ### 4.2 在已有的 RedHat Linux 中安装 KVM
 
@@ -195,10 +197,9 @@ virt-install \
 ```
 
 ### 5.2 使用 virt-manager 工具
-
+![image](https://user-images.githubusercontent.com/87458342/134773840-c620e427-152b-4f74-a4d3-3577adda5c90.png)
 
 使用 VMM GUI 创建的虚机的xml 定义文件在 /etc/libvirt/qemu/ 目录中。
-
 
 ### 5.3 使用 qemu-img 和 qemu-kvm 命令行方式安装
 （1）创建一个空的qcow2格式的镜像文件
