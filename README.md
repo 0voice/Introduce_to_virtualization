@@ -113,8 +113,12 @@
 ![image](https://user-images.githubusercontent.com/87458342/134765640-f9bb5323-067d-427c-b7b9-ea0e06b5cd1b.png)
 
 * [虚拟化架构文章](https://github.com/0voice/Introduce_to_virtualization/blob/main/virtualization_type/虚拟化架构图.md)
+* [虚拟化架构、特点及优势](https://github.com/0voice/Introduce_to_virtualization/blob/main/framework/虚拟化架构、特点及优势.md)
 
-*  <h1 id="nav_vt1_chapter8">🍊 产品</h1>
+<br/>
+<br/>
+
+# <h1 id="nav_vt1_chapter8">🍊 产品</h1>
 
 ### VMware
 
