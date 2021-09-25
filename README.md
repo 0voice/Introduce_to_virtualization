@@ -125,6 +125,9 @@
 
 ### OpenStack
 
+* [OpenStack官方网址](https://www.redhat.com/zh/topics/openstack)
+* [OpenStack介绍及原理](https://github.com/0voice/Introduce_to_virtualization/blob/main/product/OpenStack介绍及原理.md)
+
 ### Xen
 
 * [Xen虚拟化详解](https://github.com/0voice/Introduce_to_virtualization/blob/main/product/Xen虚拟化详解.md)
@@ -134,6 +137,8 @@
 * [vSphere体系架构](https://github.com/0voice/Introduce_to_virtualization/blob/main/framework/vSphere体系架构.md)
 
 ### KVM
+
+* [KVM简介及安装](https://github.com/0voice/Introduce_to_virtualization/blob/main/product/KVM简介及安装.md)
 
 <br/>
 <br/>
