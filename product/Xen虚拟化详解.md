@@ -168,13 +168,6 @@ vethY （一般在Xend启动完成以后就不存在了）
 图4-3
 ![image](https://user-images.githubusercontent.com/87458342/134771977-ac6be862-6e19-42ec-8e80-aeb25b2a895c.png)
 
-参考博客：
-http://www.opstool.com/category/35
-https://openvz.org/Main_Page
-http://www.jb51.net/article/94084_all.htm
-http://www.uml.org.cn/embeded/201303201.asp
-https://www.cnblogs.com/sddai/p/5931201.html
-
 
 
 
