@@ -108,6 +108,31 @@
 
 # <h1 id="nav_vt1_chapter3">🧿 视频</h1>
 
+提取码|vedio
+:-------: | :--------------- 
+2s25|[01-vSphere入门 ① 虚拟化杂谈，深入了解ESXI技巧及进阶后能做什么](https://pan.baidu.com/s/1eAO7ec9at8vu8vlVEc7U3Q)
+u112|[02-vSphere入门 ② 全网最详细的ESXI进阶教程；vCenter Server、AD域部署](https://pan.baidu.com/s/1YFtLeT3IvKV64cE0bXL3_A)
+px91|[03-vSphere入门 ③ 进阶ESXI与初始化配置vSphere Client](https://pan.baidu.com/s/10R0FLDf_Ov_qA_9YjqXpow)
+dy45|[04-vSphere入门 ④ 在ESXI上安装FydeOS，运行安卓并Root。安卓虚拟化各方案情况说明](https://pan.baidu.com/s/1O5eoO8vm-CKVHpJJVFPkig)
+1nht|[05- 虚拟化简介、实验环境介绍高清版](https://pan.baidu.com/s/1zeIJ1o1jeAuDKc11whjuow)
+ljhw|[06-桌面虛擬化方案架構設計暨案例分享--VMware資深技術顧問](https://pan.baidu.com/s/1GoN-iLU6FlZr9Y5YNOKp_A)
+un2r|[07-服务器虚拟化](https://pan.baidu.com/s/1p3B4gARzQL0HPQ1n06LP0Q)
+cwgs|[08-xen虚拟化技术基础](https://pan.baidu.com/s/1n0qNnCaYcmM4GIT8cBpVxQ)
+8vjj|[09-存储虚拟化](https://pan.baidu.com/s/1deaSAlsfLflVaKOYRXrO2g)
+l349|[10-什么是VMware vSphere](https://pan.baidu.com/s/1WiGQVs6uWrsuKWAFoo8cHg)
+2d68|[11-vSphere升级流程](https://pan.baidu.com/s/1uSrk-Ply3tRqxjhVXowffA)
+r4zn|[12-VMware in 2020 - Detailed Version](https://pan.baidu.com/s/1UPdwO7L_nptRmnTjXXa_Yw)
+16vo|[13-VMware NSX 開創新視界--VMware資深技術顧問](https://pan.baidu.com/s/1_X0zaazf_Clo6KusRSahnA)
+5pvr|[14-VMware OCTO – xLabs – Computational Storage](https://pan.baidu.com/s/1u2cgwQs5JrDSFwNAGoBxCA)
+n5hb|[15-how to enable virtualization in windows 7, 10  Enable Hyper-V In Bios](https://pan.baidu.com/s/1PNLW6gpDns0O83dCDRNVuw)
+0xtd|[16-Virtualization in Cloud Computing](https://pan.baidu.com/s/1BrBx1m8AxDxejBBeRCKC7w)
+6sun|[17-Docker虚拟化安装配置](https://pan.baidu.com/s/1XA4DxscLyMeoTIUUdJPKTw)
+qnc2|[18-Docker虚拟化独立外网IP配置](https://pan.baidu.com/s/1xlxu2tDqfQiAL6hI_83iVw)
+ibl6|[19-阿里云虚拟化技术分享](https://pan.baidu.com/s/1iJrDnVBFMB7-IWe4lay8xw)
+yp1b|[20-传统数据中心的IT资源配置模式--烟囱式结构](https://pan.baidu.com/s/1uIu_cQF-54L7Syn4oFKAPg)
+hagy|[21-构建vSphere虚拟化平台的准备工作](https://pan.baidu.com/s/1ir2T4eAx2zBzpHUg537Hsg)
+xvs0|[22-虚拟化技术的分类](https://pan.baidu.com/s/1xfxjaEjuAwEKBO-rpOG-mw)
+
 # <h1 id="nav_vt1_chapter4">🍀 论文</h1>
 
 No.|Title|Translate|Company
