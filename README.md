@@ -120,8 +120,9 @@
 
 # <h1 id="nav_vt1_chapter8">🍊 产品</h1>
 
-### VMware
+### VMM
 
+* [虚拟化技术概要之VMM结构](https://github.com/0voice/Introduce_to_virtualization/blob/main/product/虚拟化技术概要之VMM结构.md)
 
 ### OpenStack
 
