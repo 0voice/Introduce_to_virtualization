@@ -135,6 +135,9 @@
 
 ### KVM
 
+<br/>
+<br/>
+
 # <h1 id="nav_vt1_chapter3">🧿 视频</h1>
 
 提取码|vedio
@@ -228,6 +231,9 @@ No.|Title|Translate|Company
 60|[《The IBM Advantage for Implementing the Virtualization Reference Architecture》](https://github.com/0voice/Introduce_to_virtualization/blob/main/papers/60_The_IBM_Advantage_for_Implementing_the_Virtualization_Reference_Architecture.pdf) |《IBM实施虚拟化参考体系结构的优势》|
 
 
+<br/>
+<br/>
+
 # <h1 id="nav_vt1_chapter5">🌰 开源项目</h1>
 
 ## <h3 id="nav_vt1_chapter5_01">[KVM](http://www.linux-kvm.org)</h3>
@@ -259,11 +265,16 @@ Lguest 是由IBM工程师Rusty Russell（澳大利亚开发者)发起的虚拟�
 * [PinVMP ：虚拟化代码辅助分析工具](https://github.com/lmy375/pinvmp)
 * [File-Management ：基于虚拟磁盘模仿ext2的图形化文件管理系统](https://github.com/pancerZH/File-Management)
 
+<br/>
+<br/>
 
 # <h2 id="nav_vt1_chapter6">📄 文章</h2>
 
 <div align=left>
 </div>
+
+<br/>
+<br/>
 
 # <h1 id="nav_vt1_chapter7">📙 电子书籍</h1>
 
@@ -276,3 +287,24 @@ Lguest 是由IBM工程师Rusty Russell（澳大利亚开发者)发起的虚拟�
 
 <br/>
 <br/>
+
+## <h2 id="nav_9">🤝 鸣谢</h2>
+
+##### 为了让我们的repo内容更加的丰富，更加的专业。欢迎大家贡献patch，希望大家在issue里面出谋划策，我们期待你的加入。
+
+<a href="https://github.com/wangbojing">
+    <img src="https://avatars.githubusercontent.com/u/18027560?v=4" width="40px">
+</a> 
+
+<a href="https://github.com/ls-Brynn">
+    <img src="https://avatars.githubusercontent.com/u/87458342?v=4" width="40px">
+</a> 
+
+## 联系专栏
+
+#### 零声教育，专注于c/c++Linux后台服务器开发架构技术学习提升。<br>
+每天晚上8点【免费技术直播】：[分享Linux，Nginx，ZeroMQ，MySQL，Redis，fastdfs，MongoDB，ZK，流媒体，CDN，P2P，K8S，Docker，TCP/IP，协程，DPDK等技术内容，立即学习。](https://ke.qq.com/course/417774?flowToken=1037127)
+
+#### 关注微信公众号【后台服务架构师】——【联系我们】，获取本repo最全PDF学习文档！
+
+<img width="65%" height="65%" src="https://user-images.githubusercontent.com/87457873/130796999-03af3f54-3719-47b4-8e41-2e762ab1c68b.png"/>
