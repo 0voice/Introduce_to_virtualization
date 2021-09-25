@@ -113,6 +113,13 @@
 
 * [虚拟化架构文章](https://github.com/0voice/Introduce_to_virtualization/blob/main/virtualization_type/虚拟化架构图.md)
 
+### VMware
+
+### OpenStack
+
+### Xen
+
+### vSphere
 
 # <h1 id="nav_vt1_chapter3">🧿 视频</h1>
 
