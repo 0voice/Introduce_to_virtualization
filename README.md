@@ -97,7 +97,7 @@
 ### 5. [文件/记录虚拟化](https://github.com/0voice/Introduce_to_virtualization/blob/main/virtualization_type/storage_virtualization/什么是文件虚拟化(File%20Virtualization))
 ### 6. [基于主机的虚拟化](https://github.com/0voice/Introduce_to_virtualization/blob/main/virtualization_type/storage_virtualization/基于主机的虚拟化存储应用及注意事项.md)
 ### 7. [基于网络的虚拟化](https://github.com/0voice/Introduce_to_virtualization/blob/main/virtualization_type/storage_virtualization/Neutron实现网络虚拟化.md)
-### 8. [基于存储设备、存储子系统的虚拟化]
+### 8. [基于存储设备、存储子系统的虚拟化](https://github.com/0voice/Introduce_to_virtualization/blob/main/virtualization_type/storage_virtualization/详解存储子系统的虚拟化.md)
 ### 9. [带内虚拟化](https://github.com/0voice/Introduce_to_virtualization/blob/main/virtualization_type/storage_virtualization/带内虚拟化和带外虚拟化.md)
 ### 10. [带外虚拟化](https://github.com/0voice/Introduce_to_virtualization/blob/main/virtualization_type/storage_virtualization/带内虚拟化和带外虚拟化.md)
 
