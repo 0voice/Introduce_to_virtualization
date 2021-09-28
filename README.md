@@ -33,7 +33,18 @@
 虚拟化指通过虚拟技术，将一台物理主机，虚拟成多个逻辑主机，每个逻辑主机上运行不同的操作系统和应用程序，且互不干扰，从而显著提升计算机的工作效率。
 
 ## 虚拟化的必要性
+<div align="center">
+ 
 ![image](https://user-images.githubusercontent.com/87458342/134862625-d5c04d9b-60f2-4fc8-ab50-7328d56a028e.png)
+ 
+</div>
+
+## 虚拟化四种网络模型
+<div align="center">
+ 
+![image](https://user-images.githubusercontent.com/87458342/135031523-cfd6b87d-c918-497a-b84d-e976a58fd2e2.png)
+ 
+ </div>
 
 ### 虚拟化前
 * 每台主机一个操作系统
