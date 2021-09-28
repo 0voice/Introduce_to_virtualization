@@ -48,13 +48,6 @@
 * 强大的安全和故障隔离
 * 虚拟机是独立于硬件的，它能在硬件上运行
 
-## 虚拟化的必要性
-<div align="center">
- 
-![image](https://user-images.githubusercontent.com/87458342/134862625-d5c04d9b-60f2-4fc8-ab50-7328d56a028e.png)
- 
-</div>
-
 ## 虚拟化四种网络模型
 <div align="center">
  
