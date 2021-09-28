@@ -29,6 +29,8 @@
 
 # <h1 id="nav_vt0">🪐 虚拟化基础</h1>
 
+## [虚拟化技术](https://github.com/0voice/Introduce_to_virtualization/blob/main/product/虚拟化技术.md)
+
 ## 虚拟化技术
 虚拟化指通过虚拟技术，将一台物理主机，虚拟成多个逻辑主机，每个逻辑主机上运行不同的操作系统和应用程序，且互不干扰，从而显著提升计算机的工作效率。
 
