@@ -159,6 +159,7 @@
 * [OpenStack官方网址](https://www.redhat.com/zh/topics/openstack)
 * [OpenStack介绍及原理](https://github.com/0voice/Introduce_to_virtualization/blob/main/product/OpenStack介绍及原理.md)
 * [OpenStack知识体系](https://github.com/0voice/Introduce_to_virtualization/blob/main/product/OpenStack知识体系.md)
+* [P8整理的OpenStack构架，希望能帮助到你.md](https://github.com/0voice/Introduce_to_virtualization/blob/main/product/P8整理的OpenStack构架，希望能帮助到你.md)
 
 ### Xen
 
