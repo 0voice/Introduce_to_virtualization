@@ -40,6 +40,8 @@
  
  </div>
 
+* [虚拟化四种网络模型](https://github.com/0voice/Introduce_to_virtualization/blob/main/virtualization_type/虚拟化之四种网络模型.md)
+
 ## 虚拟化思维导图
 ![image](https://user-images.githubusercontent.com/87458342/134476897-59097b19-9726-465c-a293-5781325b9f56.png)
 
