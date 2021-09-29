@@ -29,24 +29,9 @@
 <br/>
 
 # <h1 id="nav_vt0">🪐 虚拟化基础</h1>
-<!--
-## [虚拟化技术](https://github.com/0voice/Introduce_to_virtualization/blob/main/product/虚拟化技术.md)
--->
 
-## 虚拟化技术
-虚拟化指通过虚拟技术，将一台物理主机，虚拟成多个逻辑主机，每个逻辑主机上运行不同的操作系统和应用程序，且互不干扰，从而显著提升计算机的工作效率。
+## [虚拟化技术](https://github.com/0voice/Introduce_to_virtualization/blob/main/virtualization_type/虚拟化技术.md)
 
-### 虚拟化前
-* 每台主机一个操作系统
-* 在同一台主机运行多个应用程序，有时候会产生冲突
-* 资源利用率低
-* 硬件成本高昂
-
-### 虚拟化后
-* 打破了操作系统和硬件的相互依赖
-* 通过封装到虚拟机的技术，管理操作系统和应用程序为单一整体
-* 强大的安全和故障隔离
-* 虚拟机是独立于硬件的，它能在硬件上运行
 
 ## 虚拟化四种网络模型
 <div align="center">
